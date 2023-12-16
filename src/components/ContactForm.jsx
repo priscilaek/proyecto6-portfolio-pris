@@ -1,10 +1,11 @@
-
+/*
 import {
     Turnstile,
 } from "@marsidev/react-turnstile";
 
 const turnstileSiteKey = '';
 const useBasinFormId = '';
+*/
 
 export default function ContactForm() {
     return (
@@ -12,7 +13,7 @@ export default function ContactForm() {
             <p className="text-center">Campos mandatorios (*).</p>
             <form
                 name="contact-form"
-                action={`https://usebasin.com/f/${useBasinFormId}`}
+                action="mailto:priscilaek@gmail.com"
                 method="POST"
                 className="w-[100%] flex flex-col flex-nowrap items-center gap-7"
             >
