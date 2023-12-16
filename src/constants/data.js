@@ -431,33 +431,33 @@ export const dessertImages = [
 
 export const generalServices = [
     {
-        title: 'Consulting and Strategy',
-        description: "I work closely alongside you to understand your goals, target audience, and business objectives. Using this insight, I develop a strategic plan designed to seamlessly transform your goals into a captivating digital presence.",
+        title: 'Consultoria y Estrategia',
+        description: "Trabajo estrechamente junto a usted para comprender sus metas, público objetivo y objetivos comerciales. Utilizando esta información, desarrollo un plan estratégico diseñado para transformar sin problemas sus objetivos en una presencia digital cautivadora.",
         Icon: Icons.HandshakeIcon,
     },
     {
         title: 'Branding',
-        description: "Let's craft a distinctive visual identity that resonates with your brand. An identity that not only establishes a strong visual presence, but also forges a profound connection with your audience, fostering a sense of trust and authenticity.",
+        description: "Creemos una identidad visual distintiva que resuene con su marca. Una identidad que no sólo establece una fuerte presencia visual, sino que también forja una conexión profunda con su audiencia, fomentando un sentido de confianza y autenticidad.",
         Icon: Icons.BrightIdeaIcon,
     },
     {
         title: 'Competitor Analysis',
-        description: "Through my competitor analysis service, I delve deep into the strategies employed within your industry or niche. Armed with this insight, you gain a distinct advantage, positioning yourself uniquely from others.",
+        description: "A través de mi servicio de análisis de la competencia, profundizo en las estrategias empleadas dentro de tu industria o nicho. Obteniendo con esta información una clara ventaja, posicionándose de manera única frente a los demás.",
         Icon: Icons.TargetIcon,
     },
     {
         title: 'Front-End Development',
-        description: "Infusing artistry into functionality, my web design prowess creates visually stunning and intuitive interfaces that captivate your audience. Aesthetics and usability should go hand in hand.",
+        description: "Infundiendo arte en funcionalidad, mi destreza en diseño web crea interfaces visualmente impresionantes e intuitivas que cautivan a su audiencia. Estética, accesibilidad y usabilidad deben ir de la mano.",
         Icon: Icons.WebDesignIcon,
     },
     {
         title: 'Back-End Development',
-        description: "Fueling your website's functionality behind the scenes, I create dynamic processes that bridge your business requirements and your website. Expect nothing less than efficient, user-friendly functionality that adds value to their experience.",
+        description: "Impulsando la funcionalidad de su sitio web entre bastidores, creo procesos dinámicos que unen los requisitos de su negocio y su sitio web. Espere nada menos que una funcionalidad eficiente y fácil de usar que agregue valor a su experiencia.",
         Icon: Icons.ServerIcon,
     },
     {
         title: 'Responsive Design',
-        description: "Your website will be flawlessly showcased across all screens for optimal viewing experience. Responsive design ensures your online presence adapts seamlessly to devices of all sizes.",
+        description: "Nuestro sitio web se mostrará perfectamente en todas las pantallas para una experiencia de visualización óptima. El diseño responsivo garantiza que su presencia en línea se adapte perfectamente a dispositivos de todos los tamaños.",
         Icon: Icons.DesktopMobileIcon,
     },
 ];

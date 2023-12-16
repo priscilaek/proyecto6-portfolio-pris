@@ -1,11 +1,9 @@
-/*
 import {
     Turnstile,
 } from "@marsidev/react-turnstile";
 
 const turnstileSiteKey = '';
 const useBasinFormId = '';
-*/
 
 export default function ContactForm() {
     return (
