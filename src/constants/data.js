@@ -386,46 +386,19 @@ export const extracurriculars = [
 export const educations = [
     {
         degree: 'B.S. Computer Engineering',
-        school: 'Universidad Jorge Basadre Grohmann - Tacna, PE',
+        school: 'Universidad Jorge Basadre Grohmann',
+        startDate: new Date(1997, 3),
+        endDate: new Date(2001, 11),
+        location: 'Tacna, PE',
     },
 ];
 
 export const dessertImages = [
     {
-        src: '/assets/images/desserts/oreo-cupcakes.webp',
-        altText: 'Oreo cupcakes with the toastmasters club 10th anniversary cupcake topper',
-        value: 'oreo-cupcakes',
-        label: 'Oreo cupcakes',
-    },
-    {
-        src: '/assets/images/desserts/bagel-cake.webp',
-        altText: 'Large cake decorated to look like an everything bagel',
-        value: 'bagel-cake',
-        label: 'Everything bagel cake',
-    },
-    {
-        src: '/assets/images/desserts/souffle.webp',
-        altText: 'Cheese souffle in a ramekin',
-        value: 'souffle',
-        label: 'Cheese souffle',
-    },
-    {
-        src: '/assets/images/desserts/cookies.webp',
-        altText: 'Plate of chocolate chip cookies',
-        value: 'cookies',
-        label: 'Chocolate chip cookies',
-    },
-    {
-        src: '/assets/images/desserts/macaron-cupcake.webp',
-        altText: 'Red velvet cupcake with cream cheese frosting with a strawberry macaron on top',
-        value: 'macaron-cupcakes',
-        label: 'Red velvet cupcake',
-    },
-    {
-        src: '/assets/images/desserts/cannoli-cupcakes.webp',
-        altText: 'Cannoli cupcakes with chocolate chips on top',
-        value: 'cannoli-cupcakes',
-        label: 'Cannoli cupcakes',
+        src: '/assets/images/desserts/buymeacoffee.webp',
+        altText: 'buy me a coffee',
+        value: 'buymeacoffee',
+        label: 'buy me a coffee',
     },
 ];
 
